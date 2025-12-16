@@ -1,0 +1,287 @@
+{
+  "kidsClothes": {
+    "boys": [
+      {
+        "id": "KB001",
+        "brand": "HRX Kids",
+        "productName": "Boys Printed Cotton T-Shirt",
+        "category": "Topwear",
+        "gender": "Boys",
+        "price": 499,
+        "description": "Comfortable cotton t-shirt with sporty printed design, ideal for daily wear.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33941038/2025/6/4/20b99933-4187-4d94-9bc7-018a6329b2051749020356392-HRX-Boys-All-Over-Printed-Rapid-Dry-T-Shirt-7631749020356004-1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33941038/2025/6/4/fc69eaa0-6d8e-4f1c-8789-cf422b269e121749020356294-HRX-Boys-All-Over-Printed-Rapid-Dry-T-Shirt-7631749020356004-4.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33941038/2025/6/4/8cdb1bab-9490-427f-a7dd-9652ea74497a1749020356327-HRX-Boys-All-Over-Printed-Rapid-Dry-T-Shirt-7631749020356004-3.jpg"
+        ]
+      },
+      {
+        "id": "KB002",
+        "brand": "H&M Kids",
+        "productName": "Boys Denim Slim Fit Jeans",
+        "category": "Bottom Wear",
+        "gender": "Boys",
+        "price": 1299,
+        "description": "Slim fit denim jeans with soft fabric for all-day comfort.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21466740/2023/1/9/198ead87-4447-47f3-b1e8-bd17dba513221673254469758SuperstretchSlimFitJeans4.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21466740/2023/1/9/74be0631-23cd-4dbf-8ab6-babedfbf89e91673254469774SuperstretchSlimFitJeans1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21466740/2023/1/9/383637f5-d438-4adf-a037-cdc331d19fe91673254469796SuperstretchSlimFitJeans5.jpg"
+        ]
+      },
+      {
+        "id": "KB003",
+        "brand": "Pantaloons Junior",
+        "productName": "Boys Checked Cotton Shirt",
+        "category": "Topwear",
+        "gender": "Boys",
+        "price": 899,
+        "description": "Stylish checked shirt made from breathable cotton fabric.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/11/g1G5Kdhj_efa767343eb4479dbf0de4695f46b1b1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/11/M7LLYTeb_a420257a958a4cb094b206e3fb33bdfa.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/11/LJ9xq8dD_102d12d0822f44479b2407109301b8c0.jpg"
+        ]
+      },
+      {
+        "id": "KB004",
+        "brand": "United Colors of Benetton Kids",
+        "productName": "Boys Solid Hooded Sweatshirt",
+        "category": "Winter Wear",
+        "gender": "Boys",
+        "price": 1499,
+        "description": "Warm hooded sweatshirt perfect for winter outings.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/35076301/2025/7/24/1d0b727f-7f4e-4831-9ad6-392cbbc77c4d1753356890554-United-Colors-of-Benetton-Boys-Hooded-Sweatshirt-76175335689-1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/35076301/2025/7/24/77cce69f-9f6d-42ea-8916-e6149a2147741753356890475-United-Colors-of-Benetton-Boys-Hooded-Sweatshirt-76175335689-4.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/35076301/2025/7/24/43679ecf-a3ad-49c4-bdb2-063fd9d10fa41753356890501-United-Colors-of-Benetton-Boys-Hooded-Sweatshirt-76175335689-3.jpg"
+        ]
+      },
+      {
+        "id": "KB005",
+        "brand": "Gini & Jony",
+        "productName": "Boys Printed Shorts",
+        "category": "Bottom Wear",
+        "gender": "Boys",
+        "price": 699,
+        "description": "Lightweight printed shorts suitable for playtime and casual wear.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/12/OEOvo79Z_82cf2f29bd4145cc8c578050ae5f5832.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/12/IMyPR9p4_faf75d60aa3b484dbd423a417de86b66.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/12/v75HKmMv_8cf25248330b45739e766195fe47e89e.jpg"
+        ]
+      },
+      {
+        "id": "KB006",
+        "brand": "Max Kids",
+        "productName": "Boys Graphic Round Neck T-Shirt",
+        "category": "Topwear",
+        "gender": "Boys",
+        "price": 399,
+        "description": "Graphic t-shirt with soft fabric and regular fit.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JULY/21/CB9y6tvB_7ff1dff0b2324b80b2ea0fe6fde04d18.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JULY/21/1GOl6FuU_eff70aba521145209b5ee6819bd3b16b.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JULY/21/kB2N1BrW_a1f88944d6a64e0b9a080e0a74dbec74.jpg"
+        ]
+      },
+      {
+        "id": "KB007",
+        "brand": "Pepe Jeans Kids",
+        "productName": "Boys Washed Denim Jacket",
+        "category": "Outerwear",
+        "gender": "Boys",
+        "price": 1999,
+        "description": "Classic washed denim jacket for a trendy casual look.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/28/OR8GSh0u_dc39a496020f4e1bb3c4535b05191072.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/28/JIefhEkE_dca5c832ef664398944c7fb5e7317c51.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/28/gPJDG5Qc_0c97e874ce5a4eaf8172bb34e2198cb5.jpg"
+        ]
+      },
+      {
+        "id": "KB008",
+        "brand": "FirstCry",
+        "productName": "Boys Cotton Track Pants",
+        "category": "Bottom Wear",
+        "gender": "Boys",
+        "price": 799,
+        "description": "Comfort-fit cotton track pants ideal for sports and lounging.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/16/ErgqoIvU_409dbfe6482e4775a8afacd0bf28c483.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/16/NXZptpeV_ecea1ac3fe1946c89b035c62c0f471c9.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/16/Te421D7M_07d47909d0b045709c22752beff91682.jpg"
+        ]
+      },
+      {
+        "id": "KB009",
+        "brand": "U.S. Polo Assn. Kids",
+        "productName": "Boys Polo Collar T-Shirt",
+        "category": "Topwear",
+        "gender": "Boys",
+        "price": 999,
+        "description": "Classic polo collar t-shirt with premium cotton fabric.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19869724/2025/4/8/6c87225b-96b8-4c43-b599-64ee3f36601f1744129365109-U-S-Polo-Assn-Kids-Boys-Blue--Yellow-Cotton-Brand-Logo-Polo--1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19869724/2025/4/8/a0cf09a5-2de4-428d-abad-40dc1c4a9d9e1744129365071-U-S-Polo-Assn-Kids-Boys-Blue--Yellow-Cotton-Brand-Logo-Polo--2.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19869724/2025/4/8/e2cb2341-cf99-4a66-88a5-da92cf4509fd1744129365032-U-S-Polo-Assn-Kids-Boys-Blue--Yellow-Cotton-Brand-Logo-Polo--3.jpg"
+        ]
+      },
+      {
+        "id": "KB010",
+        "brand": "Allen Solly Junior",
+        "productName": "Boys Solid Casual Trousers",
+        "category": "Bottom Wear",
+        "gender": "Boys",
+        "price": 1199,
+        "description": "Smart casual trousers suitable for outings and occasions.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28909184/2024/4/13/b62fbf71-f0a6-445a-a5ae-d6c3dd8a0a9e1713007145969AllenSollyJuniorBoysJoggersTrousers1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28909184/2024/4/13/575682ad-081a-46d2-8678-fbeb15d852ac1713007146019AllenSollyJuniorBoysJoggersTrousers3.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28909184/2024/4/13/c4136382-bf28-487b-933b-646448e41bdb1713007145992AllenSollyJuniorBoysJoggersTrousers2.jpg"
+        ]
+      }
+    ],
+    "girls": [
+      {
+        "id": "KG001",
+        "brand": "H&M Kids",
+        "productName": "Girls Printed Cotton Dress",
+        "category": "Dresses",
+        "gender": "Girls",
+        "price": 1299,
+        "description": "Soft cotton dress with vibrant prints for everyday comfort.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/24/amXkRSIx_9fa73383ed8348e099477c5c4e885596.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/24/e4kiULbv_d352f9896b044fa999c58026261bcb1e.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/24/mYUby9uI_996a20f7964d49af83d9f4277fd17d43.jpg"
+        ]
+      },
+      {
+        "id": "KG002",
+        "brand": "Biba Girls",
+        "productName": "Girls Floral Kurti with Leggings",
+        "category": "Indian Wear",
+        "gender": "Girls",
+        "price": 1599,
+        "description": "Elegant floral kurti paired with comfortable leggings.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19618494/2023/5/19/cd4d057f-261d-4f07-97ff-d603c7616ed41684491450888BibaGirlsGreenFloralPrintedPureCottonKurtawithLeggings1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19618494/2023/5/19/25d0a4ce-2120-4f7b-be2e-daf0e98449ac1684491450982BibaGirlsGreenFloralPrintedPureCottonKurtawithLeggings6.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19618494/2023/5/19/440e335d-5a95-4f41-90cd-48b3aefe7fe21684491450935BibaGirlsGreenFloralPrintedPureCottonKurtawithLeggings2.jpg"
+        ]
+      },
+      {
+        "id": "KG003",
+        "brand": "Pantaloons Junior",
+        "productName": "Girls Solid Fit and Flare Dress",
+        "category": "Dresses",
+        "gender": "Girls",
+        "price": 1199,
+        "description": "Fit and flare dress designed for a stylish party look.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/OCTOBER/21/jpIhc6LW_2111bc56ce9a4ac19d4cea85e2726308.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/OCTOBER/21/H8sW5Sv5_56d801e839fd45e88e668e008ef23798.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/OCTOBER/21/4FOW0xZB_cf11ad323914442e9ef8d67d81ae8e72.jpg"
+        ]
+      },
+      {
+        "id": "KG004",
+        "brand": "Gini & Jony",
+        "productName": "Girls Printed T-Shirt",
+        "category": "Topwear",
+        "gender": "Girls",
+        "price": 499,
+        "description": "Printed round-neck t-shirt with a comfortable regular fit.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25463910/2023/10/13/9b95cc2a-e643-40f4-8df9-16459c2eead91697171835637GiniandJonyPinkPrintCottonTop1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/25463910/2023/10/13/45ce68cf-5a7e-4c8c-a81e-5472e5d5dd2e1697171835626GiniandJonyPinkPrintCottonTop2.jpg"
+        ]
+      },
+      {
+        "id": "KG005",
+        "brand": "Max Kids",
+        "productName": "Girls Denim Skirt",
+        "category": "Bottom Wear",
+        "gender": "Girls",
+        "price": 899,
+        "description": "Classic denim skirt suitable for casual outings.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/5/x22GpOrh_e0e4b847a1c64d44a36633f0be5e48e8.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/5/wTg3Fmuo_f85e23c1a8544fdea4eac7e7dbb9e466.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/5/rLpsamL0_85b8362a7a1648518bef9b82cd212826.jpg"
+        ]
+      },
+      {
+        "id": "KG006",
+        "brand": "United Colors of Benetton Kids",
+        "productName": "Girls Hooded Sweatshirt",
+        "category": "Winter Wear",
+        "gender": "Girls",
+        "price": 1399,
+        "description": "Warm hooded sweatshirt with soft inner lining.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/26/ibI78NTT_64dd268ec8354154af2c2325654fc316.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/26/sdBvaVoC_de1a4901d2b34e77a8bfc51b0bb63341.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/26/eqPWSoDe_78f5391feb174fdb9c13883e0b8f8c1d.jpg"
+        ]
+      },
+      {
+        "id": "KG007",
+        "brand": "FirstCry",
+        "productName": "Girls Cotton Leggings",
+        "category": "Bottom Wear",
+        "gender": "Girls",
+        "price": 599,
+        "description": "Stretchable cotton leggings for daily comfort.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/6/Yidj63Yi_4893953417b94082aa66cb80b7412887.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/6/tUs43f0Z_eb8aa710127c47c496918d0d86ba1532.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/6/GfD50GU9_86178f107df54bc8a86753c4a0d8f42f.jpg"
+        ]
+      },
+      {
+        "id": "KG008",
+        "brand": "U.S. Polo Assn. Kids",
+        "productName": "Girls Polo Collar T-Shirt",
+        "category": "Topwear",
+        "gender": "Girls",
+        "price": 899,
+        "description": "Classic polo t-shirt with a neat and sporty look.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/10/OevKtgOV_e5676b20f06a4aa69d5c3fc5c92e5929.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/10/3udIfjcd_65ee9c05fb6c45688229312005eb5d6e.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/10/aeGAOL3A_60daf0a646a94d4ab1b9143321d94677.jpg"
+        ]
+      },
+      {
+        "id": "KG009",
+        "brand": "Allen Solly Junior",
+        "productName": "Girls Solid Casual Top",
+        "category": "Topwear",
+        "gender": "Girls",
+        "price": 799,
+        "description": "Casual solid top suitable for everyday wear.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/13/KbmYJlAs_6b0611434cdc4ae99681336d1834a815.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/13/X5qGXKpd_8628095376ba43d286a0d95fbbd13573.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/13/N0hxM2Ep_80cfe96be8574dd8a1ae1f3ba66be395.jpg"
+        ]
+      },
+      {
+        "id": "KG010",
+        "brand": "Peppermint Girls",
+        "productName": "Girls Party Wear Net Dress",
+        "category": "Dresses",
+        "gender": "Girls",
+        "price": 1999,
+        "description": "Beautiful net party wear dress with elegant detailing.",
+        "images": [
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24481584/2023/8/14/fb299c79-e55a-460b-8c48-a4d81baad2331691982378837PeppermintMaroonEmbellishedBellSleeveNetFitFlareDress1.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24481584/2023/8/14/b071ce41-c9d7-4296-bd6b-3fa17ab993661691982378889PeppermintMaroonEmbellishedBellSleeveNetFitFlareDress2.jpg",
+          "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/24481584/2023/8/14/3fed88b2-ea55-4168-bf8b-418847850d841691982378907PeppermintMaroonEmbellishedBellSleeveNetFitFlareDress5.jpg"
+        ]
+      }
+    ]
+  }
+}
