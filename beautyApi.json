@@ -1,0 +1,1048 @@
+{
+  "categories": {
+    "haircare": [
+      {
+        "brand": "Mamaearth",
+        "products": [
+          {
+            "id": "HC_MA_01",
+            "name": "Onion Hair Fall Control Shampoo",
+            "price": 399,
+            "discountPrice": 319,
+            "discountOffer": "20% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11265064/2025/6/11/0ce36a05-9f9d-4848-b622-0570def7c02e1749647624555-Mamaearth-Hair-Growth--Hair-Fall-Control-Onion-Shampoo-400-m-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11265064/2025/6/11/eff0c939-5407-4f68-b87a-b8fcb511a8311749647624499-Mamaearth-Hair-Growth--Hair-Fall-Control-Onion-Shampoo-400-m-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11265064/2025/6/11/d45146d6-fc8e-4964-82d6-3188342c9e631749647624443-Mamaearth-Hair-Growth--Hair-Fall-Control-Onion-Shampoo-400-m-5.jpg"
+            ],
+            "description": "Onion Hair Fall Control Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_MA_02",
+            "name": "Onion Conditioner",
+            "price": 349,
+            "discountPrice": 262,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11276106/2022/2/21/ea1647ed-d9f0-4665-8455-250bd2959bc31645444472091-Mamaearth-Hair-Growth--Hair-Fall-Control-Onion--Cocunut-Sust-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11276106/2022/2/21/c6265f09-4a35-4913-904d-187eeb1b39511645444472064-Mamaearth-Hair-Growth--Hair-Fall-Control-Onion--Cocunut-Sust-4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11276106/2022/2/21/0ecab262-6e7e-45e2-a60f-dd112b8727451645444472074-Mamaearth-Hair-Growth--Hair-Fall-Control-Onion--Cocunut-Sust-3.jpg"
+            ],
+            "description": "Onion Conditioner helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_MA_03",
+            "name": "Onion Hair Oil",
+            "price": 299,
+            "discountPrice": 224,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081218/2024/11/1/01c61959-d03d-4e0b-a7fe-39bf2d896f7a1730450307873-Mamaearth-Sustainable-Onion-Oil-For-Hair-Regrowth--Hair-Fall-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081218/2024/11/1/b2e30cef-9084-46e3-99b7-4130b9c9c34e1730450307819-Mamaearth-Sustainable-Onion-Oil-For-Hair-Regrowth--Hair-Fall-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081218/2024/11/1/618f29f7-647d-4e57-940a-8e44186381d41730450307713-Mamaearth-Sustainable-Onion-Oil-For-Hair-Regrowth--Hair-Fall-7.jpg"
+            ],
+            "description": "Onion Hair Oil helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_MA_04",
+            "name": "Rice Water Shampoo",
+            "price": 429,
+            "discountPrice": 343,
+            "discountOffer": "20% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27137142/2024/12/4/c0484619-6ab2-4adc-bce2-29a88abf8f0d1733293157818-Mamaearth-Rice-Water-Shampoo-250ml-9711733293157402-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27137142/2024/12/4/d0d6040f-6274-49d4-a9c5-ee119dd0aefe1733293157754-Mamaearth-Rice-Water-Shampoo-250ml-9711733293157402-6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27137142/2024/12/4/e6ceb860-172c-4143-910a-463095d242261733293157791-Mamaearth-Rice-Water-Shampoo-250ml-9711733293157402-3.jpg"
+            ],
+            "description": "Rice Water Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_MA_05",
+            "name": "Onion Hair Mask",
+            "price": 499,
+            "discountPrice": 374,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081530/2022/5/25/93602ba5-c5c6-421d-b60c-7438157c80b71653465448122MamaearthOnionOilOrganicBambooVinegarSustainableMaskForDryFr1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081530/2022/5/25/62a388c3-6b00-424c-af92-936a889540821653465448186MamaearthOnionOilOrganicBambooVinegarSustainableMaskForDryFr7.jpg",
+              ""
+            ],
+            "description": "Onion Hair Mask helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          }
+        ]
+      },
+      {
+        "brand": "WOW Skin Science",
+        "products": [
+          {
+            "id": "HC_WOW_01",
+            "name": "Apple Cider Vinegar Shampoo",
+            "price": 499,
+            "discountPrice": 349,
+            "discountOffer": "30% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15344640/2024/3/13/6bee882d-dc32-4fc4-8b46-9e4bde5451ed1710313080644-WOW-SKIN-SCIENCE-Apple-Cider-Vinegar-Shampoo-For-Dandruff--H-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15344640/2024/3/13/e4ccbcf7-64fe-418a-bb8c-8c95975acd331710313080618-WOW-SKIN-SCIENCE-Apple-Cider-Vinegar-Shampoo-For-Dandruff--H-2.jpg"
+            ],
+            "description": "Apple Cider Vinegar Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_WOW_04",
+            "name": "Hair Anti-Hair Fall Hair Oil",
+            "price": 399,
+            "discountPrice": 299,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12429374/2024/5/20/8fd8de74-03a9-4f2b-a3a8-5dae6b0acf0b1716188262731-WOW-SKIN-SCIENCE-Onion-Hair-Oil-for-Hair-Growth-with-Black-S-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12429374/2024/5/20/d9ee1fc5-3a5a-466e-baa0-39c2dd28b65d1716188262675-WOW-SKIN-SCIENCE-Onion-Hair-Oil-for-Hair-Growth-with-Black-S-5.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12429374/2024/5/20/a59d539a-c584-4bc6-a5c8-c98db0615a2f1716188262717-WOW-SKIN-SCIENCE-Onion-Hair-Oil-for-Hair-Growth-with-Black-S-2.jpg"
+            ],
+            "description": "Hair Anti-Hair Fall Hair Oil helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_WOW_05",
+            "name": "Wow Hair Mask",
+            "price": 599,
+            "discountPrice": 419,
+            "discountOffer": "30% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12692250/2024/3/13/18c55214-7bc6-4be8-850a-fb75d7ebb8221710313002723-WOW-SKIN-SCIENCE-Himalayan-Rose-Hair-Mask-200-ml-82217103130-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12692250/2024/3/13/aa080b30-a91f-41c3-8f44-539f85a926351710313002679-WOW-SKIN-SCIENCE-Himalayan-Rose-Hair-Mask-200-ml-82217103130-3.jpg"
+            ],
+            "description": "Wow Hair Mask helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          }
+        ]
+      },
+      {
+        "brand": "L'Oréal Paris",
+        "products": [
+          {
+            "id": "HC_LP_01",
+            "name": "Total Repair 5 Shampoo",
+            "price": 349,
+            "discountPrice": 279,
+            "discountOffer": "20% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/lbFXJgyV_f4a1c9ef96c040fa85db1dd282e6d96f.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/QkAzNTeE_7ee7bed15cab4a4fbaae06ce715ba8ed.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/lbFXJgyV_f4a1c9ef96c040fa85db1dd282e6d96f.jpg"
+            ],
+            "description": "Total Repair 5 Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_LP_02",
+            "name": "Extraordinary Oil Shampoo",
+            "price": 429,
+            "discountPrice": 322,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/GY4apGsF_0674b6113e9d44af9911ff56e171cc74.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/CDQ6A4Lf_de77820acce241ae8429e5d8f1a4dd49.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/8gl0dU44_f61db91055c3485c89a70463bfbd6209.jpg"
+            ],
+            "description": "Extraordinary Oil Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Men"
+          },
+          {
+            "id": "HC_LP_03",
+            "name": "6 Oil Nourish Conditioner",
+            "price": 379,
+            "discountPrice": 284,
+            "discountOffer": "25% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/29/i1kRbTl4_97105c5b36c145cb9640074e38988b21.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/29/EefNk3yT_7b293469daa04df3abe0fc16dcbebed1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/29/WxxzLcqI_62c185dcc1d04aa3a91685a28f331a19.jpg"
+            ],
+            "description": "6 Oil Nourish Conditioner helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_LP_04",
+            "name": "Fall Resist 3X Shampoo",
+            "price": 399,
+            "discountPrice": 319,
+            "discountOffer": "20% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/xhRkgiSD_1490782b2f7b452280bcd51dabaf77aa.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/KOuGxYg3_15d3b188b12740938bf7d54cbe683fe0.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/tQc968j9_d3bb4326bf3144d998dd99503b14dfe8.jpg"
+            ],
+            "description": "Fall Resist 3X Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_LP_05",
+            "name": "Hyaluron Moisture Conditioner",
+            "price": 449,
+            "discountPrice": 337,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/5/6800hs0G_a1395589c482453c805ee6b7efb370f7.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/5/q3XDvOzs_e7e41f8aa7bf4707be2486f8fc8d2a43.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/5/7QjwjZ69_224b322800c142839620526f4bd7c2cb.jpg"
+            ],
+            "description": "Hyaluron Moisture Conditioner helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "TRESemmé",
+        "products": [
+          {
+            "id": "HC_TR_01",
+            "name": "Keratin Smooth Shampoo",
+            "price": 429,
+            "discountPrice": 322,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/26/wEEB3j2Q_b7544f3eb6204b07867ea3c23bf3ee5a.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/26/ZJMod83r_f313af5b90b242558ab10f1ae6a2f2ce.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/26/euqKjfGy_b937264545bb4c0d88edb82863f75392.jpg"
+            ],
+            "description": "Keratin Smooth Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_TR_02",
+            "name": "Keratin Smooth Conditioner",
+            "price": 399,
+            "discountPrice": 299,
+            "discountOffer": "25% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/26/D0eSBweJ_54b8239cfb0e411b88e1e1b612f261a8.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/26/o9bX4kjm_e378dab559494f9cad8c9bc90b10a9b6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/26/t7yRzqeC_593a5e3caa814d3eaf56b1b353dce08e.jpg"
+            ],
+            "description": "Keratin Smooth Conditioner helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_TR_03",
+            "name": "Hair Fall Defense Shampoo",
+            "price": 389,
+            "discountPrice": 311,
+            "discountOffer": "20% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8667339/2024/5/15/b466a377-8a21-4449-b607-e7dd583c00051715774223038-TRESemme-Hair-Fall-Defence-Shampoo-with-Keratin-for-Hair-Fal-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8667339/2024/5/15/34601811-bd35-4780-b135-8a3cd7b312f51715774222842-TRESemme-Hair-Fall-Defence-Shampoo-with-Keratin-for-Hair-Fal-12.jpg0",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8667339/2024/5/15/b70ae1c1-e55c-4b54-a3f2-de1b2cdbe85f1715774222946-TRESemme-Hair-Fall-Defence-Shampoo-with-Keratin-for-Hair-Fal-5.jpg"
+            ],
+            "description": "Hair Fall Defense Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_TR_04",
+            "name": "Pro Protect Sulphate Free Shampoo",
+            "price": 499,
+            "discountPrice": 374,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11852428/2024/11/25/5fb3bca9-00cc-4959-a635-5ce698804b881732522665294-TRESemme-Pro-Protect-Sulphate-Free--Paraben-Free-Shampoo-340-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11852428/2024/11/25/e2f200e1-a488-4598-870f-d001feebf27f1732522665228-TRESemme-Pro-Protect-Sulphate-Free--Paraben-Free-Shampoo-340-5.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11852428/2024/11/25/d352cf38-6e01-41ee-af0b-07a84bf186931732522665245-TRESemme-Pro-Protect-Sulphate-Free--Paraben-Free-Shampoo-340-4.jpg"
+            ],
+            "description": "Pro Protect Sulphate Free Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_TR_05",
+            "name": "Smooth & Shine Serum",
+            "price": 350,
+            "discountPrice": 245,
+            "discountOffer": "30% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/16/jzltMdb9_7655418c8cf14d2da2cc79cbb06fdcd0.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/16/HMG4ixW5_9e08f7f51d7a436499a433e8ec9c4e0c.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/16/9Z36ocGm_6b3a47e9638546bbacdfc1bfae18b6c4.jpg"
+            ],
+            "description": "Smooth & Shine Serum helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Dove",
+        "products": [
+          {
+            "id": "HC_DV_01",
+            "name": "Intense Repair Shampoo",
+            "price": 299,
+            "discountPrice": 224,
+            "discountOffer": "25% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8667343/2025/6/3/3d43b779-9816-46a5-9481-de7557da7a721748950775766-Dove-Intense-Repair-Shampoo-1-l-6241748950774870-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8667343/2025/6/3/184b9253-ee65-4b1a-9b05-4e7eb0ccf50f1748950775591-Dove-Intense-Repair-Shampoo-1-l-6241748950774870-7.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8667343/2025/6/3/87b4819f-f39c-49ed-ad01-6c2e38d3f3e61748950775677-Dove-Intense-Repair-Shampoo-1-l-6241748950774870-4.jpg"
+            ],
+            "description": "Intense Repair Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_DV_02",
+            "name": "Daily Shine Shampoo",
+            "price": 279,
+            "discountPrice": 209,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/365157/2025/6/3/e512c0f6-b2f6-4a1f-9611-fc81a97472801748950442329-Dove-Hair-Therapy-Daily-Shine-Shampoo-180-ml-975174895044164-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/365157/2025/6/3/bf1678e2-cab3-4443-af3b-ed0112b784ff1748950442148-Dove-Hair-Therapy-Daily-Shine-Shampoo-180-ml-975174895044164-12.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/365157/2025/6/3/c070011f-3e99-4bdb-be8e-63e67701f1bd1748950442263-Dove-Hair-Therapy-Daily-Shine-Shampoo-180-ml-975174895044164-4.jpg"
+            ],
+            "description": "Daily Shine Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_DV_03",
+            "name": "Hair Fall Rescue Shampoo",
+            "price": 289,
+            "discountPrice": 217,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1954371/2025/6/3/6ce2e958-cc85-4f41-9ee9-2f7d0faa85131748950606248-Dove-Hair-Fall-Rescue-Shampoo-with-Glycerin-650-ml-165174895-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1954371/2025/6/3/fac9a9cc-3e82-4705-ab3d-5c1e22ae57db1748950606191-Dove-Hair-Fall-Rescue-Shampoo-with-Glycerin-650-ml-165174895-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1954371/2025/6/3/5ac6be39-5e2b-4ae6-b62d-65c69dd1400b1748950606043-Dove-Hair-Fall-Rescue-Shampoo-with-Glycerin-650-ml-165174895-11.jpg"
+            ],
+            "description": "Hair Fall Rescue Shampoo helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_DV_04",
+            "name": "Peptide Bond Hair Serum",
+            "price": 329,
+            "discountPrice": 263,
+            "discountOffer": "20% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/34222958/2025/6/18/203b2f65-2955-4db6-babd-6b7382e3d0da1750246048356-Dove-Damage-Therapy-Peptide-Bond-Strength-Bi-Phasic-OilSerum-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/34222958/2025/6/18/9e38e18f-5fb4-49af-b291-4e85b33145da1750246048174-Dove-Damage-Therapy-Peptide-Bond-Strength-Bi-Phasic-OilSerum-6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/34222958/2025/6/18/6adc3ca8-16bd-4646-b66a-f6a79ee185361750246048243-Dove-Damage-Therapy-Peptide-Bond-Strength-Bi-Phasic-OilSerum-4.jpg"
+            ],
+            "description": "Peptide Bond Hair Serum helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "HC_DV_05",
+            "name": "Intense Repair Conditioner",
+            "price": 299,
+            "discountPrice": 224,
+            "discountOffer": "25% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/MARCH/25/Bn3lS8vq_83b79fb4e7694d32ac511fe8223f47db.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/MARCH/25/nDmxVk8p_901a37da276d4e8bac929d80bde9ad3e.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/MARCH/25/csRGrBpK_9e3ffbdb82864b5a8dd7f226c537b532.jpg"
+            ],
+            "description": "Intense Repair Conditioner helps cleanse, nourish, and strengthen hair for healthier look and feel.",
+            "gender": "Unisex"
+          }
+        ]
+      }
+    ],
+    "skincare": [
+      {
+        "brand": "Minimalist",
+        "products": [
+          {
+            "id": "SC_MI_01",
+            "name": "Salicylic Acid Cleanser",
+            "price": 299,
+            "discountPrice": 239,
+            "discountOffer": "20% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2023/9/6/12adc15e-a720-48e0-a32e-4292b4f694431693992394603-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-181169-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2023/9/6/35b717af-29bf-4b93-b879-354d82678a781693992394561-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-181169-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2023/9/6/ed47b4e6-3e63-4524-9844-d2f206502c9d1693992394543-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-181169-4.jpg"
+            ],
+            "description": "Salicylic Acid Cleanser is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_MI_02",
+            "name": "Niacinamide 10% Serum",
+            "price": 599,
+            "discountPrice": 449,
+            "discountOffer": "25% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27955570/2024/2/29/97ef663d-7f77-4b67-8434-0dfaed0b83111709211113998SerumandGel1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/banner2021/11/8/d1a8fd3d-1645-4e01-935a-b806b09e66401636381009124-15.jpg"
+            ],
+            "description": "Niacinamide 10% Serum is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_MI_03",
+            "name": "Vitamin C 10% Serum",
+            "price": 699,
+            "discountPrice": 524,
+            "discountOffer": "25% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173102/2024/8/7/d244d100-2645-4658-adf1-a686908651d01723024186451-Minimalist-Vitamin-C-10-Face-Serum-for-Glowing-Skin-30-ml-64-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173102/2024/8/7/bc0e28fc-78be-4022-ab21-32886bde4cf41723024186394-Minimalist-Vitamin-C-10-Face-Serum-for-Glowing-Skin-30-ml-64-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173102/2024/8/7/174923cd-f4b8-42d6-a0f6-206f561fb8151723024186281-Minimalist-Vitamin-C-10-Face-Serum-for-Glowing-Skin-30-ml-64-7.jpg"
+            ],
+            "description": "Vitamin C 10% Serum is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_MI_04",
+            "name": "Alpha Arbutin Serum",
+            "price": 599,
+            "discountPrice": 419,
+            "discountOffer": "30% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173098/2022/4/21/29e1b887-dc10-4168-bfa0-c063c94fdbb41650517604682Minimalist2AlphaArbutinSerumWithHyaluronicAcid1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173098/2022/4/21/67232079-d182-48f3-aea2-a31918da68921650517604736Minimalist2AlphaArbutinSerumWithHyaluronicAcid5.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173098/2022/4/21/a2bf6d9f-9834-4831-bb30-c117bf63b5da1650517604762Minimalist2AlphaArbutinSerumWithHyaluronicAcid7.jpg"
+            ],
+            "description": "Alpha Arbutin Serum is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_MI_05",
+            "name": "SPF 50 PA++++ Sunscreen",
+            "price": 399,
+            "discountPrice": 319,
+            "discountOffer": "20% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15853718/2024/8/7/82994ac8-59ae-4f68-b317-f76a7f2673101723024253432-Minimalist-SPF-50-PA-Multi-Vitamin-Sunscreen-637172302425299-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15853718/2024/8/7/93c6184d-6cd7-4a25-8f1d-535d728b2f971723024253375-Minimalist-SPF-50-PA-Multi-Vitamin-Sunscreen-637172302425299-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15853718/2024/8/7/7c4a359f-5515-4eab-a78c-0476417d2c6c1723024253403-Minimalist-SPF-50-PA-Multi-Vitamin-Sunscreen-637172302425299-2.jpg"
+            ],
+            "description": "SPF 50 PA++++ Sunscreen is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          }
+        ]
+      },
+      {
+        "brand": "Cetaphil",
+        "products": [
+          {
+            "id": "SC_CT_01",
+            "name": "Gentle Skin Cleanser",
+            "price": 399,
+            "discountPrice": 299,
+            "discountOffer": "25% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/3MuqO2ZU_d3843eb45bca4abe9155a500ac8c7abe.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/7mmwDVYI_6b760bc900ad4b428a3bc012b1a2e0f7.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/lbuwDhgO_442204df8b7e46c182041304fc3d8169.jpg"
+            ],
+            "description": "Gentle Skin Cleanser is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_CT_02",
+            "name": "Oily Skin Cleanser",
+            "price": 449,
+            "discountPrice": 359,
+            "discountOffer": "20% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/qWA1ha6B_9570eae7e5304c268fc8b580a3d2912e.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/gNHAX4GZ_3c7ccbf96eb0462989cb7e0d5dfe169d.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/p8L0p4mO_51b2a912f2b94b0d96cbef71b054ab0d.jpg"
+            ],
+            "description": "Oily Skin Cleanser is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_CT_03",
+            "name": "Moisturising Cream",
+            "price": 475,
+            "discountPrice": 356,
+            "discountOffer": "25% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/6GDalcNh_8bd5dd8fd68744678449bbe59a597a19.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/V2gw64CH_794cd9c952e443b386b2e873cd703edb.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/15/Klwv5aeq_44b5220faf2a4e8a8ee3be6e36dfedfa.jpg"
+            ],
+            "description": "Moisturising Cream is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_CT_04",
+            "name": "DAM Daily Advance Lotion",
+            "price": 499,
+            "discountPrice": 374,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4608892/2023/8/9/d49d0a1f-d9d7-407b-a1b0-e3655d9dc0861691571944020-Cetaphil-DAM-Daily-Advance-Ultra-Hydrating-Lotion-for-Dry-Se-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4608892/2023/8/9/dc741e38-718f-4aa1-9dad-d0f1faeae0fa1691571943985-Cetaphil-DAM-Daily-Advance-Ultra-Hydrating-Lotion-for-Dry-Se-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4608892/2023/8/9/ebfe69d2-7179-4bae-b433-6ca324e985381691571944002-Cetaphil-DAM-Daily-Advance-Ultra-Hydrating-Lotion-for-Dry-Se-2.jpg"
+            ],
+            "description": "DAM Daily Advance Lotion is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Women"
+          },
+          {
+            "id": "SC_CT_05",
+            "name": "Soothing & Comforting CICA Restoring Serum",
+            "price": 499,
+            "discountPrice": 349,
+            "discountOffer": "30% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33569516/2025/4/17/f47bdf82-b926-4481-a6a9-5ea657571d2e1744893153576-Cetaphil-Soothing--Comforting-CICA-Restoring-Serum-with-Alla-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33569516/2025/4/17/5e578ee4-88f8-43a3-ba89-ea0609f4ff711744893153377-Cetaphil-Soothing--Comforting-CICA-Restoring-Serum-with-Alla-7.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33569516/2025/4/17/b1cc5676-1612-4062-9b33-1a1f53de9f951744893153514-Cetaphil-Soothing--Comforting-CICA-Restoring-Serum-with-Alla-3.jpg"
+            ],
+            "description": "Soothing & Comforting CICA Restoring Serum is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Plum",
+        "products": [
+          {
+            "id": "SC_PL_01",
+            "name": "Green Tea Face Wash",
+            "price": 345,
+            "discountPrice": 259,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/6/Uj0jcPWN_647eb23914f84f9091cb06ca3134a29d.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/6/nY8yLB3G_23f9f9fe775a4fd98dbb6d3c96acbb9d.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/6/s5eghXIT_710a3d6bf42048d68fa195bf3cba8f60.jpg"
+            ],
+            "description": "Green Tea Face Wash is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_PL_02",
+            "name": "Green Tea Toner",
+            "price": 390,
+            "discountPrice": 292,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1460740/2025/5/28/639674ac-bd23-4a92-9546-b96a224ea3a51748424092322-Plum-Green-Tea-Alcohol-Free-Toner-With-Glycolic-Acid-To-Tigh-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1460740/2025/5/28/602323c9-6502-497f-9c12-1651edf662e61748424092220-Plum-Green-Tea-Alcohol-Free-Toner-With-Glycolic-Acid-To-Tigh-6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1460740/2025/5/28/6a1e71a2-1619-4bd2-a38f-631db56207a11748424092300-Plum-Green-Tea-Alcohol-Free-Toner-With-Glycolic-Acid-To-Tigh-2.jpg"
+            ],
+            "description": "Green Tea Toner is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_PL_03",
+            "name": "Vitamin C Serum",
+            "price": 550,
+            "discountPrice": 412,
+            "discountOffer": "25% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/6/Rin475VN_a389a53998ac46e5a157a4d545de8ae6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/6/jijCHyYy_6de26eb6b41c42c9aed6f12cf1a47634.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/6/vMif7Ujv_af8ee9f841fb47ecb37efced08642b5d.jpg"
+            ],
+            "description": "Vitamin C Serum is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_PL_04",
+            "name": "Green Tea Night Gel",
+            "price": 575,
+            "discountPrice": 403,
+            "discountOffer": "30% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2517146/2024/5/20/124784a5-1d33-4c59-bc44-0ad1bfddc84e1716201733379PlumGreenTeaNightGelCreamWithGlycolicAcidToFightAcneForClear1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2517146/2024/5/20/cb27d252-e165-42c6-9ec8-505745c00dfc1716201733480PlumGreenTeaNightGelCreamWithGlycolicAcidToFightAcneForClear3.jpg"
+            ],
+            "description": "Green Tea Night Gel is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_PL_05",
+            "name": "Green Tea Moisturizer",
+            "price": 470,
+            "discountPrice": 352,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1460744/2024/5/20/0b28c54b-f23a-4d74-a730-e3744a763f681716194687160-Plum-Green-Tea-Mattifying-Moisturizer-With-Glycolic-Acid-For-12.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1460744/2021/9/25/fed76e8e-77ae-4b90-b9f1-1fd4f49f0be71632536708471PlumGreenTeaMattifyingSustainableMoisturizer50ml4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1460744/2021/9/25/ddbe8369-5ea9-4720-9217-b6c5854714f81632536708550PlumGreenTeaMattifyingSustainableMoisturizer50ml6.jpg"
+            ],
+            "description": "Green Tea Moisturizer is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Mamaearth",
+        "products": [
+          {
+            "id": "SC_MA_01",
+            "name": "Vitamin C Face Wash",
+            "price": 299,
+            "discountPrice": 239,
+            "discountOffer": "20% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28931760/2024/4/15/6c787f6f-3d97-43a9-a5d6-74c59301c30e1713178050700FaceWashandCleanser1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28931760/2024/4/15/2329b250-87bf-4823-8e55-93a02cfb899a1713178050729FaceWashandCleanser4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/28931760/2024/4/15/b8bf88a4-b239-4891-b453-1600535ddc101713178050761FaceWashandCleanser6.jpg"
+            ],
+            "description": "Vitamin C Face Wash is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_MA_02",
+            "name": "Ubtan Face Wash",
+            "price": 249,
+            "discountPrice": 187,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18742046/2022/6/15/99f1a676-1b66-4de8-8889-e8b27d839f811655291256463FaceWashandCleanser1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18742046/2022/6/15/bc486ced-a896-4a7a-8881-8241d6aad2c01655291256431FaceWashandCleanser5.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18742046/2022/6/15/6bfabf15-6321-447c-b8cb-e97db25574711655291256415FaceWashandCleanser7.jpg"
+            ],
+            "description": "Ubtan Face Wash is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_MA_03",
+            "name": "Tea Tree Moisturizer",
+            "price": 349,
+            "discountPrice": 262,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16103698/2021/11/16/f0cdce05-f14a-4a80-9ba4-149064400b4b1637036879975FaceMoisturisers1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16103698/2021/11/16/ff72263e-3b20-4438-b70a-6c5df24632391637036880414FaceMoisturisers3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16103698/2021/11/16/dbfc7f45-7ac8-4ee5-a622-bb4b3d3a400f1637036880075FaceMoisturisers6.jpg"
+            ],
+            "description": "Tea Tree Moisturizer is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_MA_04",
+            "name": "Oil-Free Moisturizer",
+            "price": 299,
+            "discountPrice": 224,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081188/2021/8/11/e21f2809-9449-4a31-8449-38d43603c6a21628671665223MamaearthSustainableOil-FreeFaceMoisturizer80ml1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081188/2021/8/11/f00e5776-ae93-44e6-a274-81fc113c3fe41628671665284MamaearthSustainableOil-FreeFaceMoisturizer80ml4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081188/2021/8/11/9528ab0f-1ea2-4d4d-a70d-84821b94bb231628671665276MamaearthSustainableOil-FreeFaceMoisturizer80ml3.jpg"
+            ],
+            "description": "Oil-Free Moisturizer is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_MA_05",
+            "name": "Aloe Vera Gel Moisturizer",
+            "price": 249,
+            "discountPrice": 187,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17755828/2022/4/5/24ca2438-5462-4282-8c06-d205a8d785931649151821898MamaearthAloeVeraGelFaceMoisturizer100gm1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17755828/2022/4/5/6ad48f6f-c09c-414d-8d1e-2f899a2c4bbc1649151821908MamaearthAloeVeraGelFaceMoisturizer100gm7.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17755828/2022/4/5/a18aba71-c54b-401c-a84a-db570cc9ff571649151821870MamaearthAloeVeraGelFaceMoisturizer100gm4.jpg"
+            ],
+            "description": "Aloe Vera Gel Moisturizer is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Neutrogena",
+        "products": [
+          {
+            "id": "SC_NT_01",
+            "name": "Hydro Boost Cleanser",
+            "price": 599,
+            "discountPrice": 449,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20900214/2025/5/21/6665774f-a77c-4556-9409-c52fb6857a321747831914275-Neutrogena-Hydro-Boost-Cleanser-Water-Gel-with-Hyaluronic-Ac-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20900214/2025/5/21/61dfba08-134a-4926-a975-d347a3ca76331747831914182-Neutrogena-Hydro-Boost-Cleanser-Water-Gel-with-Hyaluronic-Ac-3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20900214/2025/5/21/39ee4948-faf2-493a-aeb0-530411e8c1031747831914133-Neutrogena-Hydro-Boost-Cleanser-Water-Gel-with-Hyaluronic-Ac-4.jpg"
+            ],
+            "description": "Hydro Boost Cleanser is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_NT_02",
+            "name": "Oil-Free Acne Wash",
+            "price": 525,
+            "discountPrice": 393,
+            "discountOffer": "25% OFF",
+            "rating": 4.3,
+            "images": [],
+            "description": "Oil-Free Acne Wash is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_NT_03",
+            "name": "Hydro Boost Water Gel",
+            "price": 999,
+            "discountPrice": 699,
+            "discountOffer": "30% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/20/9XXlhoKD_f3e424fc1da044ceb1fea89538a50912.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/20/3sHncXqp_866976fbd4de4d5fbc54864574427d49.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/20/zYoJsPnV_8a83c0649e06405db99c47eb391bee55.jpg"
+            ],
+            "description": "Hydro Boost Water Gel is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_NT_04",
+            "name": "Ultra Sheer SPF 50",
+            "price": 499,
+            "discountPrice": 374,
+            "discountOffer": "25% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33454327/2025/5/15/881e732f-e73a-43bd-9c25-02c5808f37651747293112119-Neutrogena-Set-of-3-Ultra-Sheer-SPF50-Dry-Touch-Sun-Block-wi-7.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33454327/2025/5/15/caf2fcbe-0425-474d-91e8-48e79c0bdef01747293112098-Neutrogena-Set-of-3-Ultra-Sheer-SPF50-Dry-Touch-Sun-Block-wi-11.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/33454327/2025/5/15/0fa4d3e2-9e4b-41e6-9896-31a7e47781cb1747293112078-Neutrogena-Set-of-3-Ultra-Sheer-SPF50-Dry-Touch-Sun-Block-wi-12.jpg"
+            ],
+            "description": "Ultra Sheer SPF 50 is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "SC_NT_05",
+            "name": "Deep Clean Face Wash",
+            "price": 299,
+            "discountPrice": 224,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2427952/2022/12/5/f96806ca-0aab-4001-9106-d6c3698314e41670239221496-Neutrogena-Deep-Clean-Facial-Cleanser-for-Normal-to-Oily-Ski-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2427952/2022/12/5/1ad79a8b-61e0-4046-bbbe-fb468293f1bd1670239221420-Neutrogena-Deep-Clean-Facial-Cleanser-for-Normal-to-Oily-Ski-5.jpg"
+            ],
+            "description": "Deep Clean Face Wash is formulated to care for your skin, improving texture, hydration, and glow.",
+            "gender": "Unisex"
+          }
+        ]
+      }
+    ],
+    "fragrances": [
+      {
+        "brand": "Bella Vita",
+        "products": [
+          {
+            "id": "FR_BV_01",
+            "name": "CEO Man Eau De Parfum",
+            "price": 849,
+            "discountPrice": 594,
+            "discountOffer": "30% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/ceeMdsun_b21c61d5c1bb442ea21d91db02b507ca.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/SVak3Grm_27af9a8dba194accba8bdec38673ec92.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/cxYRCUmw_899f8c87201c460596a5f865003b358e.jpg"
+            ],
+            "description": "CEO Man Eau De Parfum offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Men"
+          },
+          {
+            "id": "FR_BV_02",
+            "name": "Date Women Perfume",
+            "price": 899,
+            "discountPrice": 674,
+            "discountOffer": "25% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22364340/2024/6/10/70c8492d-499e-4f41-81fb-38dc5fbe34ae1717998670012-Bella-Vita-Organic-Date-Woman-Eau-De-Parfum---100-ml-5951717-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22364340/2024/6/10/912b85fb-31e7-4a62-b5f6-2ec563e3d66f1717998669970-Bella-Vita-Organic-Date-Woman-Eau-De-Parfum---100-ml-5951717-2.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22364340/2024/6/10/5338a9fd-9713-4d56-a744-110ad34cf82d1717998669886-Bella-Vita-Organic-Date-Woman-Eau-De-Parfum---100-ml-5951717-4.jpg"
+            ],
+            "description": "Date Women Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Men"
+          },
+          {
+            "id": "FR_BV_04",
+            "name": "Fresh Unisex Perfume",
+            "price": 699,
+            "discountPrice": 524,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/GGmdfO94_d3e0fb4eac4046bb9105e928048826a0.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/lnSKHsnH_a51e1b51382741899e4d7d0a4e138243.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/O9AX2nzd_6c76375109ae46d4a643e9b9f001c099.jpg"
+            ],
+            "description": "Fresh Unisex Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_BV_05",
+            "name": "Honey Oud",
+            "price": 999,
+            "discountPrice": 699,
+            "discountOffer": "30% OFF",
+            "rating": 4.2,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/LTsfzfxE_66d5fb37fff149189b50d8873065f5f4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/rBr2kG77_2a590cd376b84f869165e54d84337197.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/17/6EHOklz0_c8bbd4dd90004646ab33aabb6c3a6ad4.jpg"
+            ],
+            "description": "Honey Oud offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Skinn by Titan",
+        "products": [
+          {
+            "id": "FR_SK_01",
+            "name": "Raw Perfume",
+            "price": 1895,
+            "discountPrice": 1326,
+            "discountOffer": "30% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785228/2025/7/25/d54a429f-a54d-484e-b026-d89e95d042d01753435013998-SKINN-by-Titan-Men-Raw-EDP--50-ml-461753435013484-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785228/2025/7/25/5d9ac371-8b99-4a13-95c9-c81dcc5cae8a1753435013891-SKINN-by-Titan-Men-Raw-EDP--50-ml-461753435013484-6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785228/2025/7/25/9ec48419-bd6c-471f-8a53-c7e3fe15d0eb1753435013954-SKINN-by-Titan-Men-Raw-EDP--50-ml-461753435013484-3.jpg"
+            ],
+            "description": "Raw Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Men"
+          },
+          {
+            "id": "FR_SK_02",
+            "name": "Steele Perfume",
+            "price": 1995,
+            "discountPrice": 1496,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785238/2025/7/25/55d9fe01-5670-4771-8c05-3733e19a9e741753435023101-SKINN-by-Titan-Men-Steele-Eau-de-Parfum-100-ml-5591753435022-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785238/2025/7/25/8c03d30b-686f-4fc8-91fd-eb59d8725a6c1753435023048-SKINN-by-Titan-Men-Steele-Eau-de-Parfum-100-ml-5591753435022-4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785238/2025/7/25/6f34f470-728e-4592-9b83-5c6fac249ee41753435023084-SKINN-by-Titan-Men-Steele-Eau-de-Parfum-100-ml-5591753435022-2.jpg"
+            ],
+            "description": "Steele Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Men"
+          },
+          {
+            "id": "FR_SK_03",
+            "name": "Amalfi Bleu Deodorant",
+            "price": 2295,
+            "discountPrice": 1606,
+            "discountOffer": "30% OFF",
+            "rating": 4.3,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/14/64eee3ae-9305-4578-9bc4-08710200988c1565778006189-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/14/a87ae809-4798-4422-b448-7e2544d6c3e61565778006203-2.jpg"
+            ],
+            "description": "Amalfi Bleu Deodorant offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_SK_04",
+            "name": "Celeste",
+            "price": 1795,
+            "discountPrice": 1346,
+            "discountOffer": "25% OFF",
+            "rating": 4.4,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785242/2025/7/25/0c716c48-af8a-4ed0-a9c7-178f2cb81b4b1753435033087-SKINN-by-Titan-Women-Celeste-Fragrance--50-ML-45517534350324-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785242/2025/7/25/3a1db1c8-7c8f-4577-88c1-4d3a01e47a241753435032936-SKINN-by-Titan-Women-Celeste-Fragrance--50-ML-45517534350324-4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785242/2025/7/25/b370ab99-42ef-4365-b955-77636b3b5ddd1753435032901-SKINN-by-Titan-Women-Celeste-Fragrance--50-ML-45517534350324-5.jpg"
+            ],
+            "description": "Celeste offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Women"
+          },
+          {
+            "id": "FR_SK_05",
+            "name": "Verge",
+            "price": 2495,
+            "discountPrice": 1746,
+            "discountOffer": "30% OFF",
+            "rating": 4.5,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785230/2021/8/18/fb5f6e61-1677-4909-b2e4-357e88ec3f631629257516868-SKINN-by-Titan-Men-Verge-EDP-50-ML-6181629257516556-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785230/2021/8/18/e2393296-f34f-467a-bcd6-199969654f911629257516835-SKINN-by-Titan-Men-Verge-EDP-50-ML-6181629257516556-4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11785230/2021/8/18/e99c67a1-3773-48c8-8581-cdc77be565481629257516856-SKINN-by-Titan-Men-Verge-EDP-50-ML-6181629257516556-2.jpg"
+            ],
+            "description": "Verge offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Engage",
+        "products": [
+          {
+            "id": "FR_EN_02",
+            "name": "Cologne Spray",
+            "price": 699,
+            "discountPrice": 524,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6701063/2022/3/26/251bbd5d-71f6-44ce-8aa0-9ece9c4590da1648303680059-Engage-Men-XX3-Deodorant-Cologne-Spray-135-ml-20616483036799-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6701063/2022/3/26/251bbd5d-71f6-44ce-8aa0-9ece9c4590da1648303680059-Engage-Men-XX3-Deodorant-Cologne-Spray-135-ml-20616483036799-1.jpg"
+            ],
+            "description": "Cologne Spray offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_EN_03",
+            "name": "Engage Nudge Deodrant spray",
+            "price": 549,
+            "discountPrice": 412,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10084605/2019/7/18/04652a5f-6df5-439b-9b48-9a6ba607e54a1563434964645-Engage-Nudge-Deo-220-ml-6621563434964348-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10084605/2019/7/18/edb2261c-c997-4f48-943e-7a2eaa92cc131563434964626-Engage-Nudge-Deo-220-ml-6621563434964348-2.jpg"
+            ],
+            "description": "Engage Nudge Deodrant spray offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_EN_04",
+            "name": "Women Blush Deo Spray",
+            "price": 499,
+            "discountPrice": 349,
+            "discountOffer": "30% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6701070/2022/3/30/f540eb1e-76ba-421d-998b-d2fca8b7fa881648638489897EngageWomanBlushBodyliciousDeoSpray165ml1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6701070/2022/3/30/1a188311-fbad-42c2-9e72-058fe3c878881648638489913EngageWomanBlushBodyliciousDeoSpray165ml3.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6701070/2022/3/30/96d53689-4ac1-4104-b093-2a915447c8c11648638489921EngageWomanBlushBodyliciousDeoSpray165ml4.jpg"
+            ],
+            "description": "Women Blush Deo Spray offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Men"
+          }
+        ]
+      },
+      {
+        "brand": "Fogg",
+        "products": [
+          {
+            "id": "FR_FG_02",
+            "name": "Intense Perfume",
+            "price": 349,
+            "discountPrice": 279,
+            "discountOffer": "20% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8788435/2023/8/18/6e0f002b-6e79-4dbc-a4b5-1cd9bc41e12d1692358621429-Fogg-Men-Scent-Intensio-Eau-De-Parfum-100-ml-821169235862100-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8788435/2023/8/18/202ca70c-7061-4788-9d56-cf2391702ff81692358621409-Fogg-Men-Scent-Intensio-Eau-De-Parfum-100-ml-821169235862100-2.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8788435/2023/8/18/27566379-f140-494c-bb15-6471ff99a2541692358621369-Fogg-Men-Scent-Intensio-Eau-De-Parfum-100-ml-821169235862100-4.jpg"
+            ],
+            "description": "Intense Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          }
+        ]
+      },
+      {
+        "brand": "Park Avenue",
+        "products": [
+          {
+            "id": "FR_PA_01",
+            "name": "Voyage Signature",
+            "price": 449,
+            "discountPrice": 337,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2136978/2024/7/16/716f0ee4-c048-445d-b914-dddab6f6bed41721129410370-Park-Avenue-Men-Mega-Voyage-Perfume-Spray-167-g-686172112941-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2136978/2024/7/16/201000cf-2892-433a-83d7-f651e194408c1721129410321-Park-Avenue-Men-Mega-Voyage-Perfume-Spray-167-g-686172112941-4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2136978/2024/7/16/8da0554a-076c-42c3-9040-766e7bfc23d61721129410339-Park-Avenue-Men-Mega-Voyage-Perfume-Spray-167-g-686172112941-3.jpg"
+            ],
+            "description": "Voyage Signature offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_PA_02",
+            "name": "Good Morning Neo",
+            "price": 399,
+            "discountPrice": 299,
+            "discountOffer": "25% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26402700/2023/12/13/859daf45-5afb-4077-9229-b0f7fec7eab11702457677340-Park-Avenue-Men-Deodorant-301702457677010-1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26402700/2023/12/13/6bc5adfc-1397-45ec-afba-c0fcaceff04d1702457677322-Park-Avenue-Men-Deodorant-301702457677010-4.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26402700/2023/12/13/76744e6a-5239-4e7d-adea-7ad935235aa11702457677335-Park-Avenue-Men-Deodorant-301702457677010-2.jpg"
+            ],
+            "description": "Good Morning Neo offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_PA_03",
+            "name": "Euphoria Perfume",
+            "price": 499,
+            "discountPrice": 349,
+            "discountOffer": "30% OFF",
+            "rating": 4.0,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/10/Vg2t8UXI_394e366824544db9ad8e4c4afbab8c9f.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/10/zKaF3cl8_dfed1f4cb02348edadeb9196f6bfc6e6.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/10/T07XWD6a_d005e32c1d5b413c9e71cc14dbe2d2ad.jpg"
+            ],
+            "description": "Euphoria Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          },
+          {
+            "id": "FR_PA_04",
+            "name": "Samurai Perfume",
+            "price": 349,
+            "discountPrice": 262,
+            "discountOffer": "25% OFF",
+            "rating": 4.1,
+            "images": [
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29832028/2025/3/18/2bf6bcbc-1f71-41b1-bfda-a270de5fd3111742297795959-Park-Avenue-Men-Luxury-Long-Lasting-Samurai-Eau-De-Parfum----1.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29832028/2025/3/18/91d0d48e-dfcf-48b7-a971-0bc09daff8531742297795939-Park-Avenue-Men-Luxury-Long-Lasting-Samurai-Eau-De-Parfum----2.jpg",
+              "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29832028/2025/3/18/e4bc42f2-3a79-4aaa-9399-6cf89b3eb9981742297795885-Park-Avenue-Men-Luxury-Long-Lasting-Samurai-Eau-De-Parfum----4.jpg"
+            ],
+            "description": "Samurai Perfume offers a long-lasting fragrance suitable for daily wear and special occasions.",
+            "gender": "Unisex"
+          }
+        ]
+      }
+    ]
+  }
+}
